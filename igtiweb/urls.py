@@ -19,4 +19,5 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('principal/', include('igtiweb.principal.urls')),
+    path('genero/', include('igtiweb.genero.urls')),
 ]

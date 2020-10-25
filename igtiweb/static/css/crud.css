@@ -1,0 +1,30 @@
+form{
+    margin: 30px;
+}
+form label{
+    display: inline;
+    text-align: center;
+    font-size: 1.3em;
+    padding: 1em;
+}
+#submit-button{
+    background-color: #20c997;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    font-size: 1em;
+}
+#submit-button:hover{
+    background-color: #00a293;
+    font-weight: bolder;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.divForm{
+
+}
