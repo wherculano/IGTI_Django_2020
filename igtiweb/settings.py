@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'igtiweb.principal',
     'igtiweb.genero',
+    'igtiweb.serie',
 ]
 
 MIDDLEWARE = [
