@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class SerieConfig(AppConfig):
-    name = 'serie'
+    name = 'igtiweb.serie'
